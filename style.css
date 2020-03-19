@@ -77,6 +77,9 @@ a {
 		padding-top: 0px;
 		padding-bottom: 0px;
 	}
+	#about, #services, #contact, #accomplishments {
+		padding: 40px;
+	}
 }
 #photo {
 	width: 100%;
